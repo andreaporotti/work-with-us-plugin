@@ -1,0 +1,19 @@
+/*
+    Default CTA style.
+*/
+.wwu-cta {
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.wwu-cta a {
+    color: #2b2b2b;
+    background-color: #c5d3ff;
+    padding: 1rem 2rem;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.wwu-cta a:hover {
+    background-color: #afc0f7;
+}
